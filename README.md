@@ -1,5 +1,5 @@
-# General Cheatsheet for Flask in VSCode on Windows - Zero to deployment (for those of us who can NOT deal with git to save our lives). No prior flask experience required.
-It is a little hard to create a Flask app on Windows without Git if you haven't done it before - I learned that the hard way - but luckily, here's a super easy way to set one up in those circumstances.
+# General Cheatsheet for Flask in VSCode on Windows (for those of us who can NOT deal with git to save our lives). No prior flask experience required.
+
 
 ## Assumptions
 I'm going to assume the following things. If you don't, this probably won't be really useful for you
