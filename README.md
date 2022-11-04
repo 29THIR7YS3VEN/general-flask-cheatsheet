@@ -24,11 +24,11 @@ py -3 -m venv .venv
 ```
 - Next, hold Ctrl+Shift+P to open up your Command palette and select the "Python: Select Interpreter" command. And select the virtual environment in your project folder that starts with `./.venv` or `.\.venv.`
 
-- Now that you have a virtual environment, run the following command to make sure our pip is installed and up to date.
+- Run the following command to make sure our pip is installed and up to date.
 ```
 python -m pip install --upgrade pip
 ```
-- And now, we can install flask by running the following command in the terminal.
+- Install flask by running the following command in the terminal.
 ```
 python -m pip install flask
 ```
