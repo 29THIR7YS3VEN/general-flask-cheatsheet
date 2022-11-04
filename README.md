@@ -1,5 +1,4 @@
-# General Cheatsheet for Flask in VSCode on Windows (for those of us who can NOT deal with git to save our lives). No prior flask experience required.
-
+# General Cheatsheet for Flask in VSCode on Windows
 
 ## Assumptions
 I'm going to assume the following things. If you don't, this probably won't be really useful for you
